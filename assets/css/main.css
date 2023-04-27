@@ -36,7 +36,7 @@ body {
   margin: auto;
   position: absolute;
   left: 49%;
-  transform: translate(-50%, -100%);
+  transform: translate(-50%, -110%);
 }
 
 .profile-picture img {
